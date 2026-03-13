@@ -133,7 +133,7 @@ In many scenarios, configuration documents may need to pull values from environm
 }
 ```
 
-With following Enviornment Variables:
+With following Environment Variables:
 
 ```sh
 MYSQL_HOST=xxx.xxx.xxx.xxx
@@ -171,7 +171,7 @@ The result is:
 }
 ```
 
-With following Enviornment Variables:
+With following Environment Variables:
 
 ```sh
 MYSQL_HOST=xxx.xxx.xxx.xxx
